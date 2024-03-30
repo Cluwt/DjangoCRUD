@@ -1,0 +1,14 @@
+.container{
+    size: 1500px;
+    animation: slowMotion 5s linear infinite;
+}
+.titulo{
+    font-size: 48px;
+    color: rgb(59, 150, 27);
+    text-shadow: 1px 1px 3px black;
+}
+
+.sucesso{
+    size:1500px;
+}
+

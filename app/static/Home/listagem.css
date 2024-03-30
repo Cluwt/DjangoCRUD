@@ -1,0 +1,11 @@
+.titulo{
+    font-size: 28px;
+    color: rgb(20, 65, 6);
+    text-shadow: 2px 2px 5px black;
+}
+#botaoinicial{
+    margin-left: 20px;
+}
+#acao{
+    margin-left: 20px;
+}
